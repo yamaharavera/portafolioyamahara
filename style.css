@@ -1,0 +1,50 @@
+body{
+ background-image:radial-gradient(circle at 64.59% 104.45%, #bbd97b 0, #c5d371 5.56%, #cecd67 11.11%, #d6c55e 16.67%, #ddbc55 22.22%, #e3b14d 27.78%, #e9a647 33.33%, #ed9841 38.89%, #f08a3e 44.44%, #f2793c 50%, #f3673d 55.56%, #f45442 61.11%, #f34049 66.67%, #f22853 72.22%, #f0005e 77.78%, #eb006b 83.33%, #e60079 88.89%, #de0089 94.44%, #d30099 100%);
+
+}
+a {
+  color: #4d4d4d;
+  text-decoration: none;
+}
+h1 {
+  padding-bottom: 20px;
+  font-size: 44px;
+  font-weight: normal;
+  text-transform: uppercase;
+}
+p {
+  margin: 10px 0;
+  font-size: 1em;
+}
+.container {
+  background-color:#E150B7;
+  margin: auto;
+  max-width: 1100px;
+  overflow: auto;
+  padding: 0 20px;
+}
+#navbar {
+  overflow: auto;
+}
+
+#navbar ul{
+  list-style: none;
+  float: right;
+}
+#navbar ul li {
+  float: left;
+}
+#navbar ul li a {
+    font-size: 25px;
+  display: block;
+  padding: 20px;
+  text-align: center;
+}
+
+#showcase-home .showcase-banner{
+  height: 100%;
+  width: 60%;
+  margin: auto;
+  padding-top: 50px;
+  text-align: center;
+}
